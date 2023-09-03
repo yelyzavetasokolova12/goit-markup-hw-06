@@ -123,18 +123,7 @@ header .navigation {
   flex-wrap: wrap;
 }
 
-.navigation-link-list::after {
-  content: '';
-  position: absolute;
-  bottom: 20px;
-  left: 0;
-  display: block;
-  width: 100%;
-  height: 4px;
-  color: #404bbf;
-  background-color: #404bff;
-  border-radius: 2px;
-}
+
 
 .link-nav {
   color: #2e2f42;
@@ -1084,7 +1073,7 @@ p {
   margin-bottom: 16px;
 }
 
-.inputs {
+/* .inputs {
   display: flex;
   width: 360px;
   flex-direction: column;
@@ -1092,7 +1081,7 @@ p {
   gap: 8px;
   margin: 0;
   padding: 0;
-}
+} */
 
 .label-input-container{
   margin-bottom: 8px;
