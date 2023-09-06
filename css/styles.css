@@ -1518,6 +1518,7 @@ p {
 }
 
 .menu-close-btn{
+stroke: #2E2F42;
   position: absolute;
   top: 24px;
   right: 24px;
